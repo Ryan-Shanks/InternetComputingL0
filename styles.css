@@ -1,0 +1,13 @@
+#header{
+	width:100%;
+	background-color:yellow;
+
+	font-size: 30px;
+}
+#footer{
+	bottom: 0px;
+	top:0px;
+}
+body{
+	font-family:arial;
+}
